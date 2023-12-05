@@ -16,14 +16,14 @@ Console Monkey will now generate your results:
 - Pace refers to the speed between the inputs in the sequence. A sleep of x milliseconds is preformed between each input
 - After each sequence a random sleep is executed, don't be surpised if all sequences aren't generated instantly
 Here is an example output:
-L2, L2+Right, Y | Pace: 18ms
-Up, Left, L2, Y+A | Pace: 25ms
-Right, L2, L2, L2, X+A | Pace: 26ms
-Y+Up | Pace: 2ms
-Left, Right, R1, A, L1 | Pace: 4ms
-Left | Pace: 29ms
-Down, Up | Pace: 3ms
-A, B+Right | Pace: 5ms
-L1, Up, L1, X | Pace: 13ms
-Up, Right+L2 | Pace: 25ms
+-L2, L2+Right, Y | Pace: 18ms
+-Up, Left, L2, Y+A | Pace: 25ms
+-Right, L2, L2, L2, X+A | Pace: 26ms
+-Y+Up | Pace: 2ms
+-Left, Right, R1, A, L1 | Pace: 4ms
+-Left | Pace: 29ms
+-Down, Up | Pace: 3ms
+-A, B+Right | Pace: 5ms
+-L1, Up, L1, X | Pace: 13ms
+-Up, Right+L2 | Pace: 25ms
 # Enjoy your random testing!
