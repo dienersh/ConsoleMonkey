@@ -2,7 +2,7 @@
 ## Instructions to Run ConsoleMonkey:
 - Clone this repository and place it in a folder you can access
 - Run the following commands in your bash terminal:
-- cd (YourFolderNameHere)
+- cd YourFolderNameHere
 - g++ -std=c++11 ConsoleMonkey.cpp -o ConsoleMonkey
 - ./ConsoleMonkey
 ## ConsoleMonkey will start running and ask you some questions:
